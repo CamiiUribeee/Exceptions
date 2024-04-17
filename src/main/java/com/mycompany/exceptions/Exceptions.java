@@ -21,16 +21,7 @@ public class Exceptions {
         } catch (Exception exception){
             System.out.println("operacion ilegal");
             System.out.println(exception.getMessage()); 
-            System.out.println(exception.getClass());
             
-        }
-        
-        
-       
-        
-        
-        
-       
-        
+        } 
     }
 }
